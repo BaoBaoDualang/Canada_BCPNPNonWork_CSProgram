@@ -1,1 +1,1 @@
-# 本仓库主要收录一些新加坡润学最基本的常识，不定期更新
+# 悄咪咪地搜集一些bcpnpNonWork资格校的cs相关项目（不含computing science以及statistics）
