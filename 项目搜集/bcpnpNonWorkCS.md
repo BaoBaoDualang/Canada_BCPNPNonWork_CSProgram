@@ -16,7 +16,7 @@
 
 # 二.New York Institute of Technology--Master of Science in Cybersecurity
 
-官网网址：New York Institute of Technology--Master of Science in Cybersecurity
+官网网址：https://vancouver.nyit.edu/vancouver/degrees/cybersecurity_ms
 
 ## 1.录取要求
 
