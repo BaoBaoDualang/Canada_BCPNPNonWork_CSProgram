@@ -108,15 +108,7 @@
 
 （3）总学费：61744加元
 
-# 七.University of Northern British Columbia--Master of Science in Computer Science
-
-官网网址：https://www2.unbc.ca/computer-science
-
-## 1.录取要求
-
-## 2.基本信息
-
-# 八.University of Victoria--Master of Science in Computer Science
+# 七.University of Victoria--Master of Science in Computer Science
 
 官网网址：https://www.uvic.ca/ecs/computerscience/graduate/masters/index.php
 
