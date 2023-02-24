@@ -80,7 +80,7 @@
 ## 1.录取要求
 
 * 拥有4年制国际认可的计算机或相关领域的本科学位
-* 在目标学习领域的高年级（大三和大四）有至少12学分，并达到A-（80%）
+* 在目标学习领域的高年级（大三和大四）有至少12学分，并且绩点达到A-（80%）
 * 英语要求：托福总分不低于90（阅读和听力不低于22、口语和写作不低于21）或 雅思总分不低于6.5（小分不低于6.0）
 
 ## 2.基本信息
@@ -116,6 +116,24 @@
 
 ## 2.基本信息
 
-（1）
-
 # 八.University of Victoria--Master of Science in Computer Science
+
+官网网址：https://www.uvic.ca/ecs/computerscience/graduate/masters/index.php
+
+## 1.录取要求
+
+* 英语要求：托福总分不低于90（小分不低于20）或 雅思总分不低于6.5（小分不低于6.0）
+* 拥有受认可的4年制本科学位
+* 绩点不低于3.0/4.0
+
+## 2.基本信息
+
+（1）四个track：Software Engineering 和 Programming Languages 和 Handware and Software Systems 和 Networks and Distributed Systems
+
+（2）时长：2年
+
+（3）地点：维多利亚岛
+
+（4）学费：2640加元**一学期**
+
+（5）带coop
