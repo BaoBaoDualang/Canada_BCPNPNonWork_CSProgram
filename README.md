@@ -1,13 +1,17 @@
-# 悄咪咪地搜集一些bcpnpNonWork资格校的cs相关项目（不含computing science以及statistics）
+# 速览
 
-速览如下：
+* Fairleigh Dickinson University--Master of Science in Applied Computer Science
+* New York Institute of Technology--Master of Science in Cybersecurity
+* Northeastern University--Master of Science in Computer Science
+* Simon Fraser University--Computer Science MSc
+* University of British Columbia(Okanaga校区)--Master of Science in Computer Science
+* University of British Columbia(温哥华校区)--Master of Science in Computer Science
+* University of Victoria--Master of Science in Computer Science
 
-1.Fairleigh Dickinson University--Master of Science in Applied Computer Science
-2.New York Institute of Technology--Master of Science in Cybersecurity
-3.Northeastern University--Master of Science in Computer Science
-4.Simon Fraser University--Computer Science MSc
-5.University of British Columbia(Okanaga校区)--Master of Science in Computer Science
-6.University of British Columbia(温哥华校区)--Master of Science in Computer Science
-7.University of Victoria--Master of Science in Computer Science
+# 群
 
-# 如有收录不全或错误，欢迎各位提出宝贵意见
+润欧群：[https://t.me/+1zVvy2dTY1FkY2Yx](https://t.me/+1zVvy2dTY1FkY2Yx)
+
+润日群：[https://t.me/+6tS2VUnn0qc2Yzcx](https://t.me/+6tS2VUnn0qc2Yzcx)
+
+润澳群：[https://t.me/+ZnoQ8DmXpFAwYzI1](https://t.me/+ZnoQ8DmXpFAwYzI1)
